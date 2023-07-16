@@ -1,5 +1,9 @@
-# Faça um fork desse repositório
+# Como aproveitar o desafio do Mercado Livre
 
-Este é um repositório vazio de propósito. A ideia é que você faça um fork para que eu, Alberto, possa usar o github para ter a chance de olhar vários dos códigos produzido por você e seus(as) colegas da Jornada Dev Eficiente :). 
+Dado que você está aqui, eu imagino que já passou pelo desafio da casa do código . Agora a ideia é que você treine habilidades parecidas, só que em outro cenário. E isso é muito importante. A variabilidade do treino faz com que você consiga aplicar a mesma informação em cenários diferentes e isso é o que vai te deixando cada vez mais preparado(a) para os possíveis desafios da vida real.
 
-Durante cada uma das seis semanas eu vou pegar código por amostragem e analisar. Feito isso, vou criar um vídeo anonimizando a pessoa que é dona do código, com as minhas observações e postar isso como material de suporte da funcionalidade :). 
+Neste desafio tente usar menos o material de apoio 😁. Lembre que você não precisa ter pressa, aqui o seu é foco no desenvolvimento pessoal. Os cadastros deste projeto são um pouco mais complicados, além de trazermos também a questão de segurança.
+
+Depois da parte do cadastro estar feita, você vai ter um desafio ainda mais legal para montar a página de detalhes, aceitar perguntas, opiniões e, por fim, fazer um fluxo de fechamento de compra!
+
+Espero que se divirta!
